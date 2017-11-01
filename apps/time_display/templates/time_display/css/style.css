@@ -1,0 +1,12 @@
+*{
+    border : 1px dotted red;
+}
+p{
+    border : 1px solid #000000;
+    margin : auto;
+    color : green
+}
+
+h3{
+    border : 1px solid black 
+}
